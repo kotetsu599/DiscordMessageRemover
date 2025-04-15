@@ -1,0 +1,2 @@
+# DiscordMessageRemover
+ユーザーをいなかったことに
